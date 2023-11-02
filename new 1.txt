@@ -1,0 +1,37 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+         <h1>Nume: Popan</h1>
+		 <h2>Prenume: Andreea</h2>
+		 <h3>Email: Popan.Pe.Elena@student.utcluj.ro</h3>
+		 
+		 <img src="C:\Users\Popan.Pe.Elena\Desktop\popan_andreea\641X334-00-60.jpg">
+		 
+		 <table>
+		     <thead>
+		           <tr>
+				     <th>Disciplina</th>
+					 <th>An</th>
+					 <th>Link</th>
+				    </tr>
+				</thead>
+			  <tbody>
+			       <tr>
+				       <td>informatica apicata</td>
+					   <td>1</<td>
+					   <td><a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/06.pdf">Fisa Disciplina</a></td>
+				   </tr>
+				   <tr>
+				       <td>programarea calculatoarelor</td>
+					   <td>1</td>
+					   <td>https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/04a.pdf</td>
+				   </tr>
+			     
+			  </tbody>
+		 </table>
+		 
+		 <p>Hobby-uri: </p>
+</body>
+</html>
