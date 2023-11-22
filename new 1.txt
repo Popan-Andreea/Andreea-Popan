@@ -26,12 +26,32 @@
 				   <tr>
 				       <td>programarea calculatoarelor</td>
 					   <td>1</td>
-					   <td>https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/04a.pdf</td>
+					   <td><a herf="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/04a.pdf">Fisa Disciplina</a></td>
 				   </tr>
-			     
+                                   <tr>
+                                       <td>analiza matematica</td>
+                                       <td>1</td>
+                                       <td><a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/01a.pdf">Fisa Disciplina</a></td>
+                                   </tr>
+			           <tr>
+                                       <td>algebra liniara si geometrie analitica despriptiva</td>
+                                       <td>1</td>
+                                       <td><a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/02a.pdf">Fisa Disciplina</a></td>
+                                   </tr>
+                                   <tr>
+                                       <td>mataematici speciale</td>
+                                       <td>1</td>
+                                       <td><a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/08a.pdf">Fisa Disciplina</a></td>
+                                   </tr>
 			  </tbody>
 		 </table>
-		 
-		 <p>Hobby-uri: </p>
+                 <h4>Hobby-uri:</h4>
+                 <ul>
+                       <li>desenul</li>
+                       <li>dansul</li>
+                       <li>cititul</li>
+                 </ul>
+		 	 
 </body>
+
 </html>

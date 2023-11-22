@@ -1,8 +1,8 @@
 var button= document.getElementById("button")
-var body=document.getElementById("body")
+var body= document.getElementById("body")
 var nume=document.getElementById("nume")
 var prenume=document.getElementById("prenume")
-var img=document.getElementById("viitor")
+var poza=document.getElementById("poza")
 var asteptari=document.getElementById("educatie")
 var an=document.getElementById("annastere")
 
@@ -23,14 +23,14 @@ function altaviata()
      prenume.innerHTML = "Locul de munca: Tribunal"
      asteptari.inner.HTML = "Experiente: <ol><li>licenta</li><li>master</li></ol>"
      
-     img.src= "2-matrix.jpg"
+     poza.src= "2-matrix.jpg"
      
 
-     body.style.backgroundColor= "green"
-     bodu.style.color = "brown"
+     body.style.backgroundColor="#DDD2BB"
+     body.style.color = "brown"
 
-     img.style.opacity = "70%"
-     img.style.borderWidth = "25px"
-     img.style.width = "300px"
-     img.style.height = "200px"
+     poza.style.opacity = "70%"
+     poza.style.borderWidth = "25px"
+     poza.style.width = "300px"
+     poza.style.height = "200px"
 }
